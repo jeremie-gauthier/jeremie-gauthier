@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**jeremie-gauthier/jeremie-gauthier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate FullStack developer from France 🇫🇷
 
-Here are some ideas to get you started:
+**About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 FullStack Engineer at [Les Sherpas](https://sherpas.com/)
+
+- 🕹️ Currently experimenting GameDev, I'm [creating my own tactic game](https://github.com/jeremie-gauthier/dnd)
+
+- 🤖 Interested by [system programming](https://github.com/jeremie-gauthier/shell), blockchain and cryptos
+
+<br />
+
+| ![Jeremie's github stats](https://github-readme-stats.vercel.app/api?username=jeremie-gauthier&show_icons=true&theme=gruvbox) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremie-gauthier&layout=compact&show_icons=true&theme=gruvbox) |
+| ------------- | ------------- |
+
+![badge 42](./42-cursus-computer-architect-level-21.1.png)

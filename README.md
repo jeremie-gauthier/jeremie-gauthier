@@ -12,7 +12,7 @@ I'm a passionate FullStack developer from France 🇫🇷
 
 <br />
 
-| ![Jeremie's github stats](https://github-readme-stats.vercel.app/api?username=jeremie-gauthier&show_icons=true&theme=gruvbox) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremie-gauthier&layout=compact&show_icons=true&theme=gruvbox) |
+| ![Jeremie's github stats](https://github-readme-stats.vercel.app/api?username=jeremie-gauthier&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremie-gauthier&layout=donut&show_icons=true&theme=github_dark&langs_count=3&hide=php) |
 | ------------- | ------------- |
 
 ![badge 42](./42-cursus-computer-architect-level-21.1.png)
